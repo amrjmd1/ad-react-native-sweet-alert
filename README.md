@@ -1,7 +1,9 @@
 # ad-react-native-sweet-alert
 
-✨ A sweet and customizable alert system for React Native apps.  
+A sweet and customizable alert system for React Native apps.  
 Lightweight, easy-to-use, and supports animations and safe area out of the box.
+
+<img src="quickshow.gif" alt="Description" width="200"  />
 
 ---
 
@@ -78,8 +80,11 @@ You can configure global defaults in the provider:
 - [Sending a pull request](CONTRIBUTING.md#sending-a-pull-request)
 - [Code of conduct](CODE_OF_CONDUCT.md)
 
+
+[stay in touch with me](https://gravatar.com/devamrdar)
+
+If you like my work, you can [buy me a coffee ☕️](https://buymeacoffee.com/devamrdar) to support me.
+
 ## License
 
 MIT © [Amr Dar](https://github.com/amrjmd1)
-
-If you like my work, you can [buy me a coffee ☕️](https://buymeacoffee.com/devamrdar) to support me.
